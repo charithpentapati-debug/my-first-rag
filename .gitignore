@@ -221,4 +221,4 @@ faiss_index/
 
 
 *_index/
-data/*.pdf
+data/*.pdf.idea/
