@@ -221,3 +221,4 @@ faiss_index/
 
 
 *_index/
+data/*.pdf
